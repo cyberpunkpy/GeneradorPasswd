@@ -1,0 +1,24 @@
+# Generador de Contraseñas Seguras
+
+Este es un generador de contraseñas seguras en Python. El script permite al usuario crear contraseñas aleatorias que cumplen con criterios de seguridad específicos.
+
+## ¿Qué hace este proyecto?
+
+El generador de contraseñas:
+- Permite al usuario seleccionar la longitud de la contraseña.
+- Ofrece opciones para incluir mayúsculas, minúsculas, números y símbolos.
+- Genera una contraseña aleatoria basada en las opciones seleccionadas.
+
+## Tecnologías utilizadas
+
+- Python 3.x
+
+## Cómo ejecutar el script
+
+1. Asegúrate de tener Python instalado en tu computadora. Puedes descargarlo desde [python.org](https://www.python.org/downloads/).
+2. Clona este repositorio o descarga el archivo `generador_contrasenas.py`.
+3. Abre una terminal o símbolo del sistema y navega a la carpeta donde se encuentra el archivo.
+4. Ejecuta el script con el siguiente comando:
+
+   ```bash
+   python generador_contrasenas.py
